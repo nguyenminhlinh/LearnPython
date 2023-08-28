@@ -1,0 +1,6 @@
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
+print(a,"chia cho",b,"được thương là",a//b,"và dư là",a%b)

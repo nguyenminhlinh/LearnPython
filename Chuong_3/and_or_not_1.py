@@ -1,0 +1,5 @@
+length=float(input())
+width=float(input())
+print(length>=0 and width>=0 and length>=width)
+print(length>=30 or width>=30)
+print(length==width)
